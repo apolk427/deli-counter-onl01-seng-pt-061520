@@ -22,4 +22,4 @@ else
        elsif katz_deli.empty? == false
          puts "Currently serving #{katz_deli.shift}."
          end
-    end 
+    end
